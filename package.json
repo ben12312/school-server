@@ -1,0 +1,23 @@
+{
+  "name": "school-server",
+  "version": "1.0.0",
+  "description": "school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben12312/school-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben12312/school-server/issues"
+  },
+  "homepage": "https://github.com/ben12312/school-server#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
